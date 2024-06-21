@@ -1,0 +1,14 @@
+
+Diana,2,2,Si Tarjeta,21.6
+Diego,2,8,Si Tarjeta,73.44
+Diego,5,8,No Tarjeta,81.6
+Diego,2,2,No Tarjeta,24
+Diana,2,2,No Tarjeta,24
+Diana,1,2,Si Tarjeta,21.6
+Jessi,6,4,No Tarjeta,43.2
+Jessi,1,5,No Tarjeta,54.0
+Jessi,5,5,No Tarjeta,54.0
+Eduardo,1,1,No Tarjeta,12
+Eduardo,2,2,Si Tarjeta,21.6
+juan,5,3,Si Tarjeta,29.159999999999997
+juan,5,14,No Tarjeta,142.8

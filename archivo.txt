@@ -1,0 +1,6 @@
+hola,hello
+amor,love
+casa,house
+gato,cat
+sonrisa,smile
+tiburon,sarck
