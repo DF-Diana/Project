@@ -123,7 +123,7 @@ def tablaClientes():
         comprasFiltro = list(compras)
 
     return render_template("tablaClientes.html", cliente=cliente, compras=comprasFiltro)
-
+#pruaba de notificacion de cambio en el codigo
 
 if __name__=="__main__":
     app.run(debug=True)
