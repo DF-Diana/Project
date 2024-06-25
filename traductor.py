@@ -23,7 +23,7 @@ def buscarPalabra():
             palabras[espanol] = ingles
             palabras[ingles] = espanol
     return palabras
-
+#comentario de cambio 
 def agregarPalabra(espanol, ingles):
     with open("archivo.txt", "a", encoding="utf-8") as archivo:
         archivo.write(f"{espanol},{ingles}\n")
