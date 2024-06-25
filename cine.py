@@ -60,7 +60,7 @@ class cine:
                     compras.append((name, numBoletos, numPersonas, tarjeta, total))
         return compras
 
-#comentario
+#comentario de notificacion
 
 '''def guardarInformacion(self, numBoletos, total, name, tarjeta, numPersonas):
     self.numBoletos = numBoletos
